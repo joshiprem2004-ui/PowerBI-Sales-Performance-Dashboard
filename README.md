@@ -1,4 +1,4 @@
-# Power BI Sales Performance Dashboard
+# Mobile Sales Performance Dashboard
 
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard built to analyze mobile phone sales performance across Indian cities. It provides a clear view of revenue, sales trends, and customer behavior.
